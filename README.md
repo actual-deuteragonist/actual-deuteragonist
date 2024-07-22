@@ -1,0 +1,3 @@
+- 👋 Hi, My name's Ahmed I'm 19 years old Pre-Engineering Student from Morocco 
+- 👀 I’m interested in Python and web developpement
+- 🌱 I’m currently learning python
